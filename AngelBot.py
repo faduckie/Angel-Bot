@@ -118,7 +118,7 @@ async def storeGen(ctx):
     
 
     
-bot.run('NzQ2MTg0NTA1MjQ4OTcyOTEw.Xz8oeQ.hAwFzC2phpixYzww-gcd-MSqw5w')
+bot.run(token)
 
 @bot.command(name='logout')
 async def _logout(ctx):
